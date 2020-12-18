@@ -10,6 +10,7 @@ Furthermore, I am a solar physics intern at [Predictive Science Inc.](https://ww
 My research interests are in mathematical modeling, numerical optimization, dynamical systems, and machine learning.
 
 ## Recent Projects
+- [Coronal Hole Probability Maps](http://www.predsci.com/CHD/)
 - [Dynamic Mode Decomposition (DMD) Autoencoder](https://opaliss.github.io/dmd_autoencoder/)
 - [Heliospheric Upwind Extrapolation (HUX)](https://github.com/predsci/HUX)
 - [Mesh Generator](https://pypi.org/project/mesh-generator/)
