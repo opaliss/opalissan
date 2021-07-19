@@ -5,11 +5,17 @@ excerpt: "CHMAP is a python package focused on the detection, mapping, tracking,
 CHMAP includes methods for: 
 
 - Data Acquisition
+  
 - Data Reduction
+  
 - Limb Brightening Correction
+  
 - Inter-Instrument Scaling
+  
 - Flexible Map Creation
+  
 - Coronal Hole Detection
+  
 - Coronal Hole Tracking"
 collection: portfolio
 ---
