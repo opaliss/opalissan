@@ -10,10 +10,7 @@ CHMAP includes methods for:
 - Inter-Instrument Scaling
 - Flexible Map Creation
 - Coronal Hole Detection
-- Coronal Hole Tracking
-
-
-Although CHMAP was designed for analyzing coronal hole evolution from seconds to years, many of the database, image processing, and mapping procedures are relevant a broad range of solar features and scientific analysis."
+- Coronal Hole Tracking"
 collection: portfolio
 ---
 [Link to Repo](https://github.com/predsci/CHMAP)
