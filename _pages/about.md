@@ -17,3 +17,12 @@ completed my B.S. in Applied Mathematics and worked under the guidance of  Prof.
 
 My research interests are in mathematical modeling, numerical optimization, dynamical systems, and machine learning.
 
+Recent News
+======
+**March 17, 2022**: Our paper "Deep learning enhanced dynamic mode decomposition" (with Jay Lago,  Christopher Curtis, and Alexander Ihler) posted online at Chaos.
+
+**Jan 19, 2022**: Our paper "Theoretical Refinements to the Heliospheric Upwind eXtrapolation Technique and Application to in-situ Measurements" (with Pete Riley) posted online at Frontiers in Astronomy and Space Sciences. 
+
+**Oct 17-19, 2021**: Attended the NextProf Pathfinder 2021 workshop at the University of Michigan.
+
+**Sept, 2021**: I moved to UCSD to pursue a PhD in Mechanical and Aerospace Engineering with Prof. Boris Kramer.
