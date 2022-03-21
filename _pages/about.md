@@ -17,6 +17,10 @@ completed my B.S. in Applied Mathematics and worked under the guidance of  Prof.
 
 My research interests are in mathematical modeling, numerical optimization, dynamical systems, and machine learning.
 
+
+
+
+
 Recent News
 ======
 **March 17, 2022**: Our paper "Deep learning enhanced dynamic mode decomposition" (with Jay Lago,  Christopher Curtis, and Alexander Ihler) posted online at Chaos.
