@@ -20,9 +20,11 @@ My research interests are in mathematical modeling, numerical optimization, dyna
 
 Recent News
 ======
-**June 19-July 1, 2022**: I am looking forward to attending Geospace Environment Modeling (GEM) and Solar Heliospheric and INterplanetary Environment (SHINE) workshops at Waikiki, HI. 
+**June 19-July 1, 2022**: I am looking forward to attending [Geospace Environment Modeling (GEM)](https://gemworkshop.org/) and [Solar Heliospheric and INterplanetary Environment (SHINE)](https://helioshine.org/) workshops at Waikiki, HI. 
 
-**May 21, 2022**: It was great to attend [Southern California Applied Mathematics Symposium (SOCAMS) conference](https://www.socams.org/) sponsored by SIAM and hosted by Harvey Mudd where I presented about ["Predicting Solar Wind Streams from the Inner-Heliosphere to Earth via Shifted Operator Inference"](https://arxiv.org/abs/2203.13372).
+**May 21, 2022**: It was great to attend [Southern California Applied Mathematics Symposium (SOCAMS) conference](https://www.socams.org/) sponsored by SIAM and hosted by Harvey Mudd; where I presented about ["Predicting Solar Wind Streams from the Inner-Heliosphere to Earth via Shifted Operator Inference"](https://arxiv.org/abs/2203.13372).
+
+**April 16, 2022**: Prof. Kramer's research group joined forces with the Rocket Propulsion Laboratory (RPL) and Students for the Exploration and Development of Space (SEDS) to host a [Space Research booth](https://jacobsschoolofengineering.blogspot.com/2022/04/uc-san-diego-space-and-rocket-science.html) at [Barrio Logan Science & Art Expo](https://www.barriologansae.com/). This event was a great opportunity to communicate our research to families from around southern San Diego. 
 
 **March 27, 2022**: Our preprint ["Predicting Solar Wind Streams from the Inner-Heliosphere to Earth via Shifted Operator Inference"](https://arxiv.org/abs/2203.13372) (with Boris Kramer) is available online at arXiv. 
 
