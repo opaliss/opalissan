@@ -20,6 +20,10 @@ My research interests are in mathematical modeling, numerical optimization, dyna
 
 Recent News
 ======
+**June 19-July 1, 2022**: I am looking forward to attending Geospace Environment Modeling (GEM) and Solar Heliospheric and INterplanetary Environment (SHINE) workshops at Waikiki, HI. 
+
+**May 21, 2022**: It was great to attend [Southern California Applied Mathematics Symposium (SOCAMS) conference](https://www.socams.org/) sponsored by SIAM and hosted by Harvey Mudd where I presented about ["Predicting Solar Wind Streams from the Inner-Heliosphere to Earth via Shifted Operator Inference"](https://arxiv.org/abs/2203.13372).
+
 **March 27, 2022**: Our preprint ["Predicting Solar Wind Streams from the Inner-Heliosphere to Earth via Shifted Operator Inference"](https://arxiv.org/abs/2203.13372) (with Boris Kramer) is available online at arXiv. 
 
 **March 17, 2022**: Our paper ["Deep learning enhanced dynamic mode decomposition"](https://aip.scitation.org/doi/10.1063/5.0073893) (with Jay Lago,  Christopher Curtis, and Alexander Ihler) posted online at Chaos.
