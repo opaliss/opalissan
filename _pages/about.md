@@ -12,15 +12,17 @@ About Me
 ======
 
 I am a PhD student in the [Department of Mechanical and Aerospace Engineering](https://mae.ucsd.edu/) at UC San Diego, working under the guidance of Prof. [Boris Kramer](http://kramer.ucsd.edu/index.html).
-I am currently working on space weather modeling and prediction. In particular, applying methods of uncertainty quantification and reduced-order modeling. Before UC San Diego, I attended San Diego State University where I 
-completed my B.S. in Applied Mathematics and worked under the guidance of  Prof. [Christopher Curtis](https://cwcurtis.github.io/). Furthermore, as a Solar Physics Intern at [Predictive Science Inc.](https://www.predsci.com/portal/home.php) (2019-2021), I developed mesh generation software, an algorithm to track spatiotemporal properties of coronal holes, and a technique to map solar wind streams from the Sun to Earth.
+I am currently working on space weather modeling and forecasting. In particular, applying methods of uncertainty quantification and reduced-order modeling to predict the solar wind and upper atmosphere. Before UC San Diego, I attended San Diego State University where I 
+completed my B.S. in Applied Mathematics and worked under the guidance of  Prof. [Christopher Curtis](https://cwcurtis.github.io/). Furthermore, as an undergraduate, I worked as a Solar Physics Intern at [Predictive Science Inc.](https://www.predsci.com/portal/home.php) (2019-2021), where I developed mesh generation software, an algorithm to track spatiotemporal properties of coronal holes, and a technique to map solar wind streams from the Sun to Earth.
 
-My research interests are in mathematical modeling, numerical optimization, dynamical systems, and machine learning.
+My research interests are in data assimilation, machine learning, model-order reduction, and computational fluid dynamics.
 
 
 Recent News
 ======
-**June 19-July 1, 2022**: I am looking forward to attending [Geospace Environment Modeling (GEM)](https://gemworkshop.org/) and [Solar Heliospheric and INterplanetary Environment (SHINE)](https://helioshine.org/) workshops at Waikiki, HI. 
+**Sept 26-30, 2022**: It was great to attend [Society for Industrial and Applied Mathematics conference on Mathematics of Data Science](https://www.siam.org/conferences/cm/conference/mds22) conference, where I gave a talk at the mini-symposium on *Data-driven, physics-informed methods for computational science*.
+
+**June 19-July 1, 2022**: I attended [Geospace Environment Modeling (GEM)](https://gemworkshop.org/) and [Solar Heliospheric and INterplanetary Environment (SHINE)](https://helioshine.org/) workshops at Waikiki, HI, where I presented a poster about ["Predicting Solar Wind Streams from the Inner-Heliosphere to Earth via Shifted Operator Inference"](https://arxiv.org/abs/2203.13372).
 
 **May 21, 2022**: It was great to attend [Southern California Applied Mathematics Symposium (SOCAMS) conference](https://www.socams.org/) sponsored by SIAM and hosted by Harvey Mudd; where I presented about ["Predicting Solar Wind Streams from the Inner-Heliosphere to Earth via Shifted Operator Inference"](https://arxiv.org/abs/2203.13372).
 
@@ -32,6 +34,6 @@ Recent News
 
 **Jan 19, 2022**: Our paper ["Theoretical Refinements to the Heliospheric Upwind eXtrapolation Technique and Application to in-situ Measurements"](https://www.frontiersin.org/articles/10.3389/fspas.2021.795323/full?&utm_source=Email_to_authors_&utm_medium=Email&utm_content=T1_11.5e1_author&utm_campaign=Email_publication&field=&journalName=Frontiers_in_Astronomy_and_Space_Sciences&id=795323) (with Pete Riley) posted online at Frontiers in Astronomy and Space Sciences.
 
-**Oct 17-19, 2021**: Attended the NextProf Pathfinder 2021 workshop at the University of Michigan.
+**Oct 17-19, 2021**: Attended the [NextProf Pathfinder](https://nextprof.engin.umich.edu/) 2021 workshop at the University of Michigan.
 
 **Oct, 2021**: I moved to UCSD to pursue a PhD in Mechanical and Aerospace Engineering with Prof. Boris Kramer.
