@@ -20,7 +20,7 @@ My research interests are in data assimilation, machine learning, model-order re
 
 Recent News
 ======
-**Sept 26-30, 2022**: I gave a talk at the mini-symposium on *Data-driven, physics-informed methods for computational science* at [Society for Industrial and Applied Mathematics conference on Mathematics of Data Science](https://www.siam.org/conferences/cm/conference/mds22) conference. My talk was about ["Predicting Solar Wind Streams from the Inner-Heliosphere to Earth via Shifted Operator Inference"](https://arxiv.org/abs/2203.13372).
+**Sept 26-30, 2022**: I gave a talk at the mini-symposium on *Data-driven, physics-informed methods for computational science* at [Society for Industrial and Applied Mathematics conference on Mathematics of Data Science](https://www.siam.org/conferences/cm/conference/mds22); My talk was about ["Predicting Solar Wind Streams from the Inner-Heliosphere to Earth via Shifted Operator Inference"](https://arxiv.org/abs/2203.13372).
 
 **June 19-July 1, 2022**: I attended [Geospace Environment Modeling (GEM)](https://gemworkshop.org/) and [Solar Heliospheric and INterplanetary Environment (SHINE)](https://helioshine.org/) workshops at Waikiki, HI, where I presented a poster about ["Predicting Solar Wind Streams from the Inner-Heliosphere to Earth via Shifted Operator Inference"](https://arxiv.org/abs/2203.13372).
 
