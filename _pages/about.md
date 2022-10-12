@@ -12,7 +12,7 @@ About Me
 ======
 
 I am a Ph.D. student in the [Department of Mechanical and Aerospace Engineering](https://mae.ucsd.edu/) at UC San Diego, working under the guidance of Prof. [Boris Kramer](http://kramer.ucsd.edu/index.html).
-I am currently working on space-weather forecasting. In particular, applying methods of uncertainty quantification and reduced-order modeling to predict the solar wind and upper atmosphere. Before UC San Diego, I attended San Diego State University where I 
+I am currently working on space-weather forecasting. In particular, developing methods of uncertainty quantification and reduced-order modeling to predict the solar wind and upper atmosphere. Before UC San Diego, I attended San Diego State University where I 
 completed my B.S. in Applied Mathematics while working as a Solar Physics Intern at [Predictive Science Inc](https://www.predsci.com/portal/home.php).
 
 My research interests are in data assimilation, global sensitivity analysis, machine learning, model-order reduction, and computational fluid dynamics.
