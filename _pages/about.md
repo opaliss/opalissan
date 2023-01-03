@@ -15,7 +15,7 @@ I am a Ph.D. student in the [Department of Mechanical and Aerospace Engineering]
 I am currently working on space-weather forecasting. In particular, developing methods of uncertainty quantification and reduced-order modeling to predict the solar wind and Earth's upper atmosphere. Before UC San Diego, I attended San Diego State University where I 
 completed my B.S. in Applied Mathematics while working as a Solar Physics Intern at [Predictive Science Inc](https://www.predsci.com/portal/home.php).
 
-My research interests are in data assimilation, global sensitivity analysis, machine learning, model-order reduction, and computational fluid dynamics.
+My research interests are in data assimilation, global sensitivity analysis, model order reduction, and computational fluid dynamics.
 
 
 Recent News
