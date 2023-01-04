@@ -17,6 +17,9 @@ completed my B.S. in Applied Mathematics while working as a Solar Physics Intern
 
 My research interests are in data assimilation, global sensitivity analysis, model order reduction, and computational fluid dynamics.
 
+Upcoming Events
+======
+**March 9-10, 2023**: I am looking forward to attending the [Space Weather with Quantified Uncertainties Spring Meeting 2023](https://linaresr.scripts.mit.edu/swqu/) and visit the MIT Haystack observatory! I will be presenting a poster on variance-based global sensitivity analysis of ambient solar wind models. 
 
 Recent News
 ======
