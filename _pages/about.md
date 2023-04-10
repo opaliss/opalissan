@@ -21,7 +21,7 @@ Upcoming Events
 ======
 **June 11-16, 2023** I look forward to attending the [Geospace Environment Modeling (GEM)](https://gemworkshop.org/), where I will be presenting about my latest work in parameter estimation and global sensitivity analysis of ambient solar wind models.
 
-**Aug 20-25, 2023** I am very excited to attend [10th International Congress on Industrial and Applied Mathematics (ICIAM23)](https://iciam2023.org/) in Tokyo, Japan, where I will be presenting in the ``Space Weather: Modeling, Surrogates and Uncertainty Quantification" mini-symposium on parameter estimation and global sensitivity analysis of ambient solar wind models. 
+**Aug 20-25, 2023** I am very excited to attend [10th International Congress on Industrial and Applied Mathematics (ICIAM23)](https://iciam2023.org/) in Tokyo, Japan, where I will be presenting in the "Space Weather: Modeling, Surrogates and Uncertainty Quantification" mini-symposium on parameter estimation and global sensitivity analysis of ambient solar wind models. 
 
 Recent News
 ======
