@@ -11,27 +11,35 @@ redirect_from:
 About Me
 ======
 
-I am a Ph.D. student in the [Department of Mechanical and Aerospace Engineering](https://mae.ucsd.edu/) at UC San Diego, working under the guidance of Prof. [Boris Kramer](http://kramer.ucsd.edu/index.html).
-I am currently working on space-weather forecasting. In particular, developing methods of uncertainty quantification and reduced-order modeling to predict the solar wind and Earth's upper atmosphere. Before UC San Diego, I attended San Diego State University where I 
+I am a second year Ph.D. student in the [Department of Mechanical and Aerospace Engineering](https://mae.ucsd.edu/) at UC San Diego, working under the guidance of Prof. [Boris Kramer](http://kramer.ucsd.edu/index.html).
+I am currently working on space-weather forecasting. In particular, developing methods of uncertainty quantification and reduced-order modeling methods to predict the solar wind and Earth's upper atmosphere. Before UC San Diego, I attended San Diego State University where I 
 completed my B.S. in Applied Mathematics while working as a Solar Physics Intern at [Predictive Science Inc](https://www.predsci.com/portal/home.php).
 
 My research interests are in data assimilation, global sensitivity analysis, model order reduction, and computational fluid dynamics.
 
 Upcoming Events
 ======
-**March 9-10, 2023**: I am looking forward to attending the [Space Weather with Quantified Uncertainties Spring Meeting 2023](https://linaresr.scripts.mit.edu/swqu/) and visit the MIT Haystack observatory! I will be presenting a poster on variance-based global sensitivity analysis of ambient solar wind models. 
+**June 11-16, 2023** I look forward to attending the [Geospace Environment Modeling (GEM)](https://gemworkshop.org/), where I will be presenting about my latest work in parameter estimation and global sensitivity analysis of ambient solar wind models.
 
 Recent News
 ======
+**April 6-7, 2023** It was great to attend the [USACM Workshop on Establishing Benchmarks for Data-Driven Modeling of Physical Systems](https://sites.google.com/view/usacmdatabenchmarks/home) at University of Southern California (USC), where I presented about magnetohydrodynamic solar wind modeling and their corresponding mathematical challenges, i.e. high-dimensionality, complex nonlinearity, shock dynamics, advection-dominated phenomena, which make such models a great candidate for benchmark problems in model reduction and uncertainty quantification.
+
+**March 17, 2023** Our preprint ["Exact and optimal quadratization of nonlinear finite-dimensional non-autonomous dynamical systems"](https://arxiv.org/abs/2303.10285) (with Andrey Bychkov, Gleb Pogudin, and Boris Kramer) is available online at arXiv. 
+
+**March 9-10, 2023**: I attended the [Space Weather with Quantified Uncertainties Spring Meeting 2023](https://linaresr.scripts.mit.edu/swqu/) and got to visit the MIT Haystack observatory! I presented a poster on variance-based global sensitivity analysis of ambient solar wind models. 
+
+**Dec 22, 2022** I passed my Departmental Qualifying Exam (DQE) in computational fluid dynamics, fluid instabilities, and model order reduction. Many thanks to my advisor [Prof. Boris Kramer](http://kramer.ucsd.edu/), and committee members [Prof. Oliver Schmidt](https://flowphysics.ucsd.edu/) and [Prof. David Saintillan](http://stokeslet.ucsd.edu/). 
+
 **Nov 7, 2022**: Our paper ["Predicting Solar Wind Streams from the Inner-Heliosphere to Earth via Shifted Operator Inference"](https://www.sciencedirect.com/science/article/pii/S0021999122007525?dgcid=author) (with Boris Kramer) is posted online at the Journal of Computational Physics.
 
-**Sept 26-30, 2022**: I gave a talk at the mini-symposium on *Data-driven, physics-informed methods for computational science* at [Society for Industrial and Applied Mathematics conference on Mathematics of Data Science](https://www.siam.org/conferences/cm/conference/mds22); My talk was about ["Predicting Solar Wind Streams from the Inner-Heliosphere to Earth via Shifted Operator Inference"](https://arxiv.org/abs/2203.13372).
+**Sept 26-30, 2022**: I gave a talk at the mini-symposium on *Data-driven, physics-informed methods for computational science* at [Society for Industrial and Applied Mathematics (SIAM) conference on Mathematics of Data Science](https://www.siam.org/conferences/cm/conference/mds22); My talk was about ["Predicting Solar Wind Streams from the Inner-Heliosphere to Earth via Shifted Operator Inference"](https://arxiv.org/abs/2203.13372).
 
 **June 19-July 1, 2022**: I attended [Geospace Environment Modeling (GEM)](https://gemworkshop.org/) and [Solar Heliospheric and INterplanetary Environment (SHINE)](https://helioshine.org/) workshops at Waikiki, HI, where I presented a poster about ["Predicting Solar Wind Streams from the Inner-Heliosphere to Earth via Shifted Operator Inference"](https://arxiv.org/abs/2203.13372).
 
 **May 21, 2022**: It was great to attend [Southern California Applied Mathematics Symposium (SOCAMS) conference](https://www.socams.org/) sponsored by SIAM and hosted by Harvey Mudd; where I presented about ["Predicting Solar Wind Streams from the Inner-Heliosphere to Earth via Shifted Operator Inference"](https://arxiv.org/abs/2203.13372).
 
-**April 16, 2022**: Prof. Kramer's research group joined forces with the Rocket Propulsion Laboratory (RPL) and Students for the Exploration and Development of Space (SEDS) to host a [Space Research booth](https://jacobsschoolofengineering.blogspot.com/2022/04/uc-san-diego-space-and-rocket-science.html) at [Barrio Logan Science & Art Expo](https://www.barriologansae.com/). This event was a great opportunity to communicate our research to families from around southern San Diego. 
+**April 16, 2022**: Prof. Boris Kramer's research group joined forces with the Rocket Propulsion Laboratory (RPL) and Students for the Exploration and Development of Space (SEDS) to host a [Space Research booth](https://jacobsschoolofengineering.blogspot.com/2022/04/uc-san-diego-space-and-rocket-science.html) at [Barrio Logan Science & Art Expo](https://www.barriologansae.com/). This event was a great opportunity to communicate our research to families from around southern San Diego. 
 
 **March 27, 2022**: Our preprint ["Predicting Solar Wind Streams from the Inner-Heliosphere to Earth via Shifted Operator Inference"](https://arxiv.org/abs/2203.13372) (with Boris Kramer) is available online at arXiv. 
 
@@ -41,4 +49,4 @@ Recent News
 
 **Oct 17-19, 2021**: Attended the [NextProf Pathfinder](https://nextprof.engin.umich.edu/) 2021 workshop at the University of Michigan.
 
-**Oct, 2021**: I moved to UCSD to pursue a PhD in Mechanical and Aerospace Engineering with Prof. Boris Kramer.
+**Oct, 2021**: I moved to UCSD to pursue a PhD in Mechanical and Aerospace Engineering with [Prof. Boris Kramer](http://kramer.ucsd.edu/).
