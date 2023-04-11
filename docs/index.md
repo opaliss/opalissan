@@ -1,6 +1,6 @@
 # Opal Issan
 
-![](images/GradPic2.jpg){ width=30% : align=right }
+![](images/usc.jpg){ width=30% : align=right }
 
 I am currently in my last year as an undergraduate student at [San Diego State University](https://www.sdsu.edu/) (San Diego, California), majoring in Applied Mathematics. I am working under the guidance of Professor [Christopher Curtis](https://cwcurtis.github.io/) on finding a finite dimensional approximation of the Koopman operator using deep learning techniques. 
 Furthermore, I am a Solar Physics Intern at [Predictive Science Inc.](https://www.predsci.com/portal/home.php), working with Dr. Pete Riley (Vice President, Chief Financial Officer, and Senior Research Scientist) on mapping solar wind streams from the Sun to Earth. 
