@@ -25,6 +25,10 @@ Upcoming Events
 
 Recent News
 ======
+**May 16, 2023** Our preprint ["Bayesian Inference and Global Sensitivity Analysis for Ambient Solar Wind Prediction"](https://arxiv.org/abs/2305.08009) (with Pete Riley, Enrico Camporeale, and Boris Kramer) is available online at arXiv.
+
+**May 10, 2023** Our work (with Boris Kramer) appeared in a SIAM News Blog post on [Speeding Up Solar Wind Forecasts with Reduced-order Modeling](https://sinews.siam.org/Details-Page/speeding-up-solar-wind-forecasts-with-reduced-order-modeling).
+
 **April 6-7, 2023** It was great to attend the [USACM Workshop on Establishing Benchmarks for Data-Driven Modeling of Physical Systems](https://sites.google.com/view/usacmdatabenchmarks/home) at University of Southern California (USC), where I presented about magnetohydrodynamic solar wind modeling and their corresponding mathematical challenges, i.e. high-dimensionality, complex nonlinearity, shock dynamics, advection-dominated phenomena, which make such models a great candidate for benchmark problems in model reduction and uncertainty quantification.
 
 **March 17, 2023** Our preprint ["Exact and optimal quadratization of nonlinear finite-dimensional non-autonomous dynamical systems"](https://arxiv.org/abs/2303.10285) (with Andrey Bychkov, Gleb Pogudin, and Boris Kramer) is available online at arXiv. 
