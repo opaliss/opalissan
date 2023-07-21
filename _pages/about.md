@@ -19,12 +19,12 @@ My research interests are in data assimilation, global sensitivity analysis, mod
 
 Upcoming Events
 ======
-**June 11-16, 2023** I look forward to attending the [Geospace Environment Modeling (GEM)](https://gemworkshop.org/), where I will be presenting about my latest work in parameter estimation and global sensitivity analysis of ambient solar wind models.
-
 **Aug 20-25, 2023** I am very excited to attend [10th International Congress on Industrial and Applied Mathematics (ICIAM23)](https://iciam2023.org/) in Tokyo, Japan, where I will be presenting in the "Space Weather: Modeling, Surrogates and Uncertainty Quantification" mini-symposium on parameter estimation and global sensitivity analysis of ambient solar wind models. 
 
 Recent News
 ======
+**June 11-16, 2023** I presented about my [latest work]((https://arxiv.org/abs/2305.08009)) in parameter estimation and global sensitivity analysis of ambient solar wind models at [Geospace Environment Modeling (GEM)](https://gemworkshop.org/).
+
 **May 16, 2023** Our preprint ["Bayesian Inference and Global Sensitivity Analysis for Ambient Solar Wind Prediction"](https://arxiv.org/abs/2305.08009) (with Pete Riley, Enrico Camporeale, and Boris Kramer) is available online at arXiv.
 
 **May 10, 2023** Our work (with Boris Kramer) appeared in a SIAM News Blog post on [Speeding Up Solar Wind Forecasts with Reduced-order Modeling](https://sinews.siam.org/Details-Page/speeding-up-solar-wind-forecasts-with-reduced-order-modeling).
