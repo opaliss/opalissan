@@ -19,10 +19,15 @@ My research interests are in data assimilation, global sensitivity analysis, mod
 
 Upcoming Events
 ======
-**Aug 20-25, 2023** I am very excited to attend [10th International Congress on Industrial and Applied Mathematics (ICIAM23)](https://iciam2023.org/) in Tokyo, Japan, where I will be presenting in the "Space Weather: Modeling, Surrogates and Uncertainty Quantification" mini-symposium on parameter estimation and global sensitivity analysis of ambient solar wind models. 
 
 Recent News
 ======
+**Sept 11, 2023** Our paper ["Bayesian Inference and Global Sensitivity Analysis for Ambient Solar Wind Prediction"](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023SW003555) (with Pete Riley,  Enrico Camporeale, and Boris Kramer) posted online at Space Weather.
+
+**Aug 20-25, 2023** I attended the [10th International Congress on Industrial and Applied Mathematics (ICIAM23)](https://iciam2023.org/) in Tokyo, Japan, where I presented in the "Space Weather: Modeling, Surrogates and Uncertainty Quantification" mini-symposium on parameter estimation and global sensitivity analysis of ambient solar wind models. 
+
+**June 5-July 28, 2023** It was great to attend the [Los Alamos National Laboratory Space Weather Summer School](https://www.lanl.gov/projects/national-security-education-center/space-earth-center/space-weather-school/index.php), which offered a variety of lectures in space weather (mainly focusing on magnetospheric physics). During the summer school, I got to work with Gian Luca Delzanno (LANL), Oleksandr Koshkarov (LANL), and Federico Halpern (General Atomics) on the anti-symmetric formulation of spectral methods for Vlasov- Poisson system. I learned a lot about spectral methods, the Hamiltonian structure of the Vlasov-Poisson system, stability properties, and classic electrostatic instabilities.
+
 **June 11-16, 2023** I presented about my [latest work]((https://arxiv.org/abs/2305.08009)) in parameter estimation and global sensitivity analysis of ambient solar wind models at [Geospace Environment Modeling (GEM)](https://gemworkshop.org/).
 
 **May 16, 2023** Our preprint ["Bayesian Inference and Global Sensitivity Analysis for Ambient Solar Wind Prediction"](https://arxiv.org/abs/2305.08009) (with Pete Riley, Enrico Camporeale, and Boris Kramer) is available online at arXiv.
