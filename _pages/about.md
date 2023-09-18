@@ -11,7 +11,7 @@ redirect_from:
 About Me
 ======
 
-I am a second year Ph.D. student in the [Department of Mechanical and Aerospace Engineering](https://mae.ucsd.edu/) at UC San Diego, working under the guidance of Prof. [Boris Kramer](http://kramer.ucsd.edu/index.html).
+I am a third year Ph.D. student in the [Department of Mechanical and Aerospace Engineering](https://mae.ucsd.edu/) at UC San Diego, working under the guidance of Prof. [Boris Kramer](http://kramer.ucsd.edu/index.html).
 I am currently working on space-weather forecasting. In particular, developing methods of uncertainty quantification and reduced-order modeling methods to predict the solar wind and Earth's upper atmosphere. Before UC San Diego, I attended San Diego State University where I 
 completed my B.S. in Applied Mathematics under the guidance of Prof. [Christoper Curtis](https://cwcurtis.github.io/) while working as a Solar Physics Intern at [Predictive Science Inc](https://www.predsci.com/portal/home.php).
 
