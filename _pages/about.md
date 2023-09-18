@@ -19,6 +19,7 @@ My research interests are in data assimilation, model order reduction, and compu
 
 Upcoming Events
 ======
+**Feb 27- March 1, 2024** I plan to attend SIAM Conference on Uncertainty Quantification (UQ24) in Trieste, Italy!
 
 Recent News
 ======
