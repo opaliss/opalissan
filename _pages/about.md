@@ -23,7 +23,7 @@ Upcoming Events
 
 Recent News
 ======
-**Dec 11, 2023** Our paper ["Anti-symmetric and Positivity Preserving Formulation of a Spectral Method for Vlasov-Poisson Equations"](https://arxiv.org/abs/2312.05439) (with Oleksandr Koshkarov, Federico D. Halpern, Boris Kramer, Gian Luca Delzanno) is available online at arXiv. 
+**Dec 11, 2023** Our preprint ["Anti-symmetric and Positivity Preserving Formulation of a Spectral Method for Vlasov-Poisson Equations"](https://arxiv.org/abs/2312.05439) (with Oleksandr Koshkarov, Federico D. Halpern, Boris Kramer, Gian Luca Delzanno) is available online at arXiv. 
 
 **Dec 8, 2023** I was awarded the 2023 best presentation award along with Postdoc [Hunter Akin](https://hunterakins.github.io/) at the CaCAO (ChAos, Computation, Analysis and Optimization) group, which is lead by Prof. [Matti Morzfeld](https://igppweb.ucsd.edu/~mmorzfeld/) at Scripps Institution of Oceanography. My presentation was a two-part overview of reduced-order modeling in the context of uncertainty quantification!
 
