@@ -23,6 +23,10 @@ Upcoming Events
 
 Recent News
 ======
+**Dec 11, 2023** Our paper ["Anti-symmetric and Positivity Preserving Formulation of a Spectral Method for Vlasov-Poisson Equations"](https://arxiv.org/abs/2312.05439) (with Oleksandr Koshkarov, Federico D. Halpern, Boris Kramer, Gian Luca Delzanno) is available online at arXiv. 
+
+**Dec 8, 2023** I was awarded the 2023 best presentation award along with Postdoc [Hunter Akin](https://hunterakins.github.io/) at the CaCAO (ChAos, Computation, Analysis and Optimization) group, which is lead by Prof. [Matti Morzfeld](https://igppweb.ucsd.edu/~mmorzfeld/) at Scripps Institution of Oceanography. My presentation was a two-part overview of reduced-order modeling in the context of uncertainty quantification!
+
 **Sept 11, 2023** Our paper ["Bayesian Inference and Global Sensitivity Analysis for Ambient Solar Wind Prediction"](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023SW003555) (with Pete Riley,  Enrico Camporeale, and Boris Kramer) posted online at Space Weather.
 
 **Aug 20-25, 2023** I attended the [10th International Congress on Industrial and Applied Mathematics (ICIAM23)](https://iciam2023.org/) in Tokyo, Japan, where I presented in the "Space Weather: Modeling, Surrogates and Uncertainty Quantification" mini-symposium on parameter estimation and global sensitivity analysis of ambient solar wind models. 
