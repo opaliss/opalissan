@@ -5,8 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-# Publications 
-1. Issan O, Koshkarov O, Halpern F, Kramer B, Delzanno GL (2023). Anti-symmetric and Positivity Preserving Formulation of a Spectral Method for Vlasov-Poisson Equations. (submitted). preprint doi: arXiv:2312.05439
+1. **Issan O**, Koshkarov O, Halpern F, Kramer B, Delzanno GL (2023). Anti-symmetric and Positivity Preserving Formulation of a Spectral Method for Vlasov-Poisson Equations. (submitted). preprint doi: arXiv:2312.05439
 2. Bychkov A, Issan O, Pogudin G, Kramer B (2023). Exact and optimal quadratization of nonlinear finite-dimensional non-autonomous dynamical systems. SIAM Journal on Applied Dynamical Systems (accepted). preprint doi: arXiv:2303.10285
 3. Issan O, Riley P, Camporeale E, Kramer B (2023). Bayesian Inference and Global Sensitivity Analysis for Ambient Solar Wind Prediction. Space Weather, 21, e2023SW003555. doi: 10.1029/2023SW003555
 4. Issan O and Kramer B (2022). Predicting Solar Wind Streams from the Inner-Heliosphere to Earth via Shifted Operator Inference. Journal of Computational Physics, 473:111689. doi: 10.1016/j.jcp.2022.111689
