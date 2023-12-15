@@ -8,18 +8,12 @@ author_profile: true
 ## [CHMAP: Coronal Hole Mapping and Analysis Pipeline](https://predsci.github.io/CHMAP/)
 CHMAP is a python package focused on the detection, mapping, tracking, and general analysis of coronal holes in the solar corona. CHMAP includes methods for:
 
-  * Data Acquisition 
-
+  * Data Acquisition
   * Data Reduction
-
   * Limb Brightening Correction
-
   * Inter-Instrument Scaling
-
   * Flexible Map Creation
-
   * Coronal Hole Detection
-
   * Coronal Hole Tracking
 
 ## [Mesh Generator](https://pypi.org/project/mesh-generator/)
