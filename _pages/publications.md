@@ -14,3 +14,7 @@ author_profile: true
 4. Alford-Lago D, Curtis C, Ihler A, and **Issan O** (2022). Deep Learning Enhanced Dynamic Mode Decomposition. Chaos, 32(3):033116. doi: [10.1063/5.0073893](https://pubs.aip.org/aip/cha/article/32/3/033116/2835753/Deep-learning-enhanced-dynamic-mode-decomposition)
 5. **Issan O** and Riley P (2022). Theoretical Refinements to the Heliospheric Upwind eXtrapolation Technique and Application to in-situ Measurements. Frontiers in Astronomy and Space Sciences, 8:795323. doi: [10.3389/fspas.2021.795323](https://www.frontiersin.org/articles/10.3389/fspas.2021.795323/full)
 6. Riley P and **Issan O** (2021). Using a Heliospheric Upwinding eXtrapolation Technique to Magnetically Connect Different Regions of the Heliosphere. Frontiers in Physics, 9:679497. doi: [10.3389/fphy.2021.679497](https://www.frontiersin.org/articles/10.3389/fphy.2021.679497/full)
+
+
+## Blog Posts
+1. **Issan O** and Kramer B (2023). [Speeding Up Solar Wind Forecasts with Reduced-order Modeling](https://sinews.siam.org/Details-Page/speeding-up-solar-wind-forecasts-with-reduced-order-modeling). Society for Industrial and Applied Mathematics News Blog. 
