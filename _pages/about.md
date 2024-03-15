@@ -21,7 +21,7 @@ Upcoming Events
 ======
 **April 2-May 30, 2024** I look forward to return to the Los Alamos National Laboratory (LANL) [T5 Applied Mathematics and Plasma Physics division](https://www.lanl.gov/org/ddste/aldsc/theoretical/applied-mathematics-plasma-physics/index.php) as a computational science graduate student. I will be continuing to work with Gian Luca Delzanno and Oleksandr Koshkarov on various extensions/modifications of the LANL spectral plasma solver.
 
-**July 21-26, 2024** I will be attending the [World Congress on Computational Mechanics and 4th Pan American Congress on Computational Mechanics (WCCM-PANACM)](https://www.wccm2024.org/) conference in Vancouver, Canada where I will be presenting about data-driven model reduction of the kinetic plasma equations.  
+**July 21-26, 2024** I will be attending the [World Congress on Computational Mechanics and 4th Pan American Congress on Computational Mechanics (WCCM-PANACM)](https://www.wccm2024.org/) conference in Vancouver, Canada where I will be presenting about data-driven model reduction of the Vlasov-Poisson equations.  
 
 **Aug 12-16, 2024** I am excited to attend the [Solar Heliospheric and INterplanetary Environment (SHINE)](https://helioshine.org/) workshop in Juneau, Alaska. I will be presenting my latest work on kinetic-fluid simulation coupling using the spectral plasma solver. Feel free to reach out if you are planning to attend the conference and want to chat.
 
