@@ -23,8 +23,9 @@ Upcoming Events
 
 **July 21-26, 2024** I will be attending the [World Congress on Computational Mechanics and 4th Pan American Congress on Computational Mechanics (WCCM-PANACM)](https://www.wccm2024.org/) conference in Vancouver, Canada where I will be presenting about data-driven model reduction of the kinetic plasma equations.  
 
-**Aug 12-16, 2024** I will be attending the [Solar Heliospheric and INterplanetary Environment (SHINE)](https://helioshine.org/) workshop in Juneau, Alaska. I will be presenting my latest work on kinetic-fluid simulation coupling using the spectral plasma solver. Feel free to reach out if you are planning to attend the conference and want to chat.
+**Aug 12-16, 2024** I am excited to attend the [Solar Heliospheric and INterplanetary Environment (SHINE)](https://helioshine.org/) workshop in Juneau, Alaska. I will be presenting my latest work on kinetic-fluid simulation coupling using the spectral plasma solver. Feel free to reach out if you are planning to attend the conference and want to chat.
 
+**Sept 9-13, 2024**  I will be attending the [Model Reduction and Surrogate Modeling (MORE)](https://more2024.sciencesconf.org/) conference which will be held at my home university--University of California San Diego.
 
 Recent News
 ======
