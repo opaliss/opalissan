@@ -19,10 +19,14 @@ My research interests are in data assimilation, model order reduction, and compu
 
 Upcoming Events
 ======
-**Feb 27- March 1, 2024** I plan to attend SIAM Conference on Uncertainty Quantification (UQ24) in Trieste, Italy!
+**April 2- May 30, 2024** I look forward to visit the Los Alamos National Laboratory [T5 Applied Mathematics and Plasma Physics division](https://www.lanl.gov/org/ddste/aldsc/theoretical/applied-mathematics-plasma-physics/index.php) as a computational science graduate student. I will be working with Gian Luca Delzanno and Oleksandr Koshkarov on the spectral plasma solver.
 
 Recent News
 ======
+**Jan 3-March 15, 2024** I was the teaching assistant of [*Systems and Signals*](https://catalog.ucsd.edu/courses/MAE.html) (MAE143A) course taught by Prof. Boris Kramer. I held weekly office hours and taught the 4th hour lecture for 190 undergraduate students. The course covered linear time invariant system, Laplace transform, Fourier transform, and PID control. I developed Jupyter notebooks to illustrate the application of the Discrete Fourier Transform to filter images (e.g. [Oppenheimer/Monroe](https://github.com/opaliss/Signals_and_Systems_143A/blob/main/W7%20DFT.pdf)) and audio (e.g. [Elton John's "Don't Go Breaking My Heart"](https://github.com/opaliss/Signals_and_Systems_143A/blob/main/W8%20DFT%20(continued).pdf)).
+
+**Feb 19-22, 2024** I enjoyed attending the Institute for Mathematical and Statistical Innovation (IMSI) [*Computational Challenges and Optimization in Kinetic Plasma Physics*](https://www.imsi.institute/activities/computational-challenges-and-optimization-in-kinetic-plasma-physics/) workshop at the University of Chicago. I learned about the computational challenges and latest developments in simulating plasma dynamics in laboratory fusion devices (stellarator/tokamak). 
+
 **Dec 11, 2023** Our preprint ["Anti-symmetric and Positivity Preserving Formulation of a Spectral Method for Vlasov-Poisson Equations"](https://arxiv.org/abs/2312.05439) (with Oleksandr Koshkarov, Federico D. Halpern, Boris Kramer, Gian Luca Delzanno) is available online at arXiv. 
 
 **Dec 8, 2023** I was awarded the 2023 best presentation award along with Postdoc [Hunter Akin](https://hunterakins.github.io/) at the CaCAO (ChAos, Computation, Analysis and Optimization) group, which is lead by Prof. [Matti Morzfeld](https://igppweb.ucsd.edu/~mmorzfeld/) at Scripps Institution of Oceanography. My presentation was a two-part overview of reduced-order modeling in the context of uncertainty quantification!
