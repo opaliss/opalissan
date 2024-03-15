@@ -19,7 +19,7 @@ My research interests are in data assimilation, model order reduction, and compu
 
 Upcoming Events
 ======
-**April 2-May 30, 2024** I look forward to visit the Los Alamos National Laboratory [T5 Applied Mathematics and Plasma Physics division](https://www.lanl.gov/org/ddste/aldsc/theoretical/applied-mathematics-plasma-physics/index.php) as a computational science graduate student. I will be working with Gian Luca Delzanno and Oleksandr Koshkarov on the spectral plasma solver.
+**April 2-May 30, 2024** I look forward to return to the Los Alamos National Laboratory [T5 Applied Mathematics and Plasma Physics division](https://www.lanl.gov/org/ddste/aldsc/theoretical/applied-mathematics-plasma-physics/index.php) as a computational science graduate student. I will be continuing to work with Gian Luca Delzanno and Oleksandr Koshkarov on the spectral plasma solver.
 
 **July 21-26, 2024** I will be attending the [World Congress on Computational Mechanics and 4th Pan American Congress on Computational Mechanics (WCCM-PANACM)](https://www.wccm2024.org/) conference in Vancouver, Canada where I will be presenting about data-driven model reduction of the kinetic plasma equations.  
 
