@@ -19,16 +19,20 @@ My research interests are in data assimilation, model order reduction, and compu
 
 Upcoming Events
 ======
-**April 2-May 30, 2024** I look forward to return to the Los Alamos National Laboratory (LANL) [T5 Applied Mathematics and Plasma Physics division](https://www.lanl.gov/org/ddste/aldsc/theoretical/applied-mathematics-plasma-physics/index.php) as a computational science graduate student. I will be continuing to work with Gian Luca Delzanno and Oleksandr Koshkarov on various extensions/modifications of the LANL spectral plasma solver.
+**June 24-Aug 16, 2024** I am participating in FDL-X Geoeffectiveness research group-- developing geomagnetic ground perturbations forecasting in real time with quantified uncertainties. My contribution is focused on the quantifying uncertainties stemming from the spherical harmonics interpolation via Gaussian process regression.
 
-**July 21-26, 2024** I will be attending the [World Congress on Computational Mechanics and 4th Pan American Congress on Computational Mechanics (WCCM-PANACM)](https://www.wccm2024.org/) conference in Vancouver, Canada where I will be presenting about data-driven model reduction of the Vlasov-Poisson equations.  
+**Aug 1-9, 2024** I am looking forward to attending the [15th International Symposium for Space Simulations (ISSS-15) and the 16th International Workshop on the Interrelationship between Plasma Experiments in the Laboratory and in Space (IPELS-16)](https://plan.events.mpg.de/event/152/) hosted by the Max Planck Institute for Plasma Physics (IPP) in Garching near Munich, Germany. I will be presenting about my latest work with LANL (T5) on developing kinetic solvers via velocity spectral methods.  
 
-**Aug 12-16, 2024** I am excited to attend the [Solar Heliospheric and INterplanetary Environment (SHINE)](https://helioshine.org/) workshop in Juneau, Alaska. I will be presenting my latest work on kinetic-fluid simulation coupling using the spectral plasma solver. Feel free to reach out if you are planning to attend the conference and want to chat.
+**Aug 11-16, 2024** I am excited to attend the [Solar Heliospheric and INterplanetary Environment (SHINE)](https://helioshine.org/) workshop in Juneau, Alaska. I will be presenting my latest work on kinetic-fluid simulation coupling using the spectral plasma solver. Feel free to reach out if you are planning to attend the conference and want to chat.
 
 **Sept 9-13, 2024**  I will be attending the [Model Reduction and Surrogate Modeling (MORE)](https://more2024.sciencesconf.org/) conference which will be held at my home university--University of California San Diego.
 
 Recent News
 ======
+**June 5, 2024** I was awarded the *2023-2024 MAE PhD Outstanding Teaching Assistant of the Year Award* for the Systems and Signals course in W24. 
+
+**April 2-May 30, 2024** I was great to return to the Los Alamos National Laboratory (LANL) [T5 Applied Mathematics and Plasma Physics division](https://www.lanl.gov/org/ddste/aldsc/theoretical/applied-mathematics-plasma-physics/index.php) as a computational science graduate student. I will be continuing to work with Gian Luca Delzanno and Oleksandr Koshkarov on various extensions/modifications of the LANL spectral plasma solver.
+
 **April 9, 2024** It was a pleasure to give a seminar talk at the [Machine Learning for Planetary Science and Space Physics (ML4PSP)](https://ml4psp.github.io/schedule.html) on [Bayesian Inference and Global Sensitivity Analysis for Ambient Solar Wind Prediction](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023SW003555). The seminar recording is added to [youtube](https://www.youtube.com/watch?v=sR7qybTdw1k&themeRefresh=1).  
 
 **Jan 3-March 15, 2024** I was the teaching assistant of [*Systems and Signals*](https://catalog.ucsd.edu/courses/MAE.html) (MAE143A) course taught by Prof. Boris Kramer. I held weekly office hours and taught the 4th hour lecture for 190 undergraduate students. The course covered linear time invariant systems, Laplace transforms, Fourier transforms, and PID control. I developed Jupyter notebooks to illustrate the application of the Discrete Fourier Transform to filter images (e.g. [Oppenheimer/Monroe](https://github.com/opaliss/Signals_and_Systems_143A/blob/main/W7%20DFT.pdf)) and audio (e.g. [Elton John's "Don't Go Breaking My Heart"](https://github.com/opaliss/Signals_and_Systems_143A/blob/main/W8%20DFT%20(continued).pdf)).
