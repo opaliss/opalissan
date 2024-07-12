@@ -19,8 +19,6 @@ My research interests are in data assimilation, model order reduction, and compu
 
 Upcoming Events
 ======
-**June 24-Aug 16, 2024** I am participating in FDL-X Geoeffectiveness research group-- developing geomagnetic ground perturbations forecasting in real time with quantified uncertainties. My contribution is focused on the quantifying uncertainties stemming from the spherical harmonics interpolation via Gaussian process regression.
-
 **Aug 1-9, 2024** I am looking forward to attending the [15th International Symposium for Space Simulations (ISSS-15) and the 16th International Workshop on the Interrelationship between Plasma Experiments in the Laboratory and in Space (IPELS-16)](https://plan.events.mpg.de/event/152/) hosted by the Max Planck Institute for Plasma Physics (IPP) in Garching near Munich, Germany. I will be presenting about my latest work with LANL (T5) on developing kinetic solvers via velocity spectral methods.  
 
 **Aug 11-16, 2024** I am excited to attend the [Solar Heliospheric and INterplanetary Environment (SHINE)](https://helioshine.org/) workshop in Juneau, Alaska. I will be presenting my latest work on kinetic-fluid simulation coupling using the spectral plasma solver. Feel free to reach out if you are planning to attend the conference and want to chat.
@@ -29,6 +27,8 @@ Upcoming Events
 
 Recent News
 ======
+**June 24-Aug 16, 2024** I am a Heliophysics researcher in [FDL-X Geoeffectiveness research group](https://frontierdevelopmentlab.org/fdl2024)-- developing geomagnetic ground perturbations forecasting in real time with quantified uncertainties. My contribution is focused on the quantifying uncertainties stemming from the spherical harmonics interpolation via Gaussian process regression.
+
 **June 5, 2024** I was awarded the *2023-2024 MAE PhD Outstanding Teaching Assistant of the Year Award* for the Systems and Signals course in W24. 
 
 **April 2-May 30, 2024** I was great to return to the Los Alamos National Laboratory (LANL) [T5 Applied Mathematics and Plasma Physics division](https://www.lanl.gov/org/ddste/aldsc/theoretical/applied-mathematics-plasma-physics/index.php) as a computational science graduate student. I will be continuing to work with Gian Luca Delzanno and Oleksandr Koshkarov on various extensions/modifications of the LANL spectral plasma solver.
