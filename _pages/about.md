@@ -27,7 +27,7 @@ Upcoming Events
 
 Recent News
 ======
-**June 24-Aug 16, 2024** I am a Heliophysics researcher in [FDL-X geoeffectiveness continuous learning research group](https://frontierdevelopmentlab.org/fdl2024) developing real time forecasts of geomagnetic ground perturbations with quantified uncertainties. My contribution is focusing on quantifying interpolation uncertainties via Gaussian process regression.
+**June 24-Aug 16, 2024** I am a heliophysics researcher in [FDL-X geoeffectiveness continuous learning research group](https://frontierdevelopmentlab.org/fdl2024) developing real time forecasts of geomagnetic ground perturbations with quantified uncertainties. My contribution is focusing on quantifying interpolation uncertainties via Gaussian process regression.
 
 **June 5, 2024** I was awarded the *2023-2024 MAE PhD Outstanding Teaching Assistant of the Year Award* for the Systems and Signals course in W24. 
 
