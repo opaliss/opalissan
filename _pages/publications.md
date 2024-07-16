@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 ## Preprints
-1. **Issan O**, Koshkarov O, Halpern F, Kramer B, Delzanno GL (2024). Conservative Closures of the Vlasov-Poisson Equations Discretized with a Symmetrically Weighted Hermite Spectral Expansion in Velocity. (submitted). preprint doi (uploading).
+1. **Issan O**, Koshkarov O, Halpern F, Kramer B, Delzanno GL (2024). Conservative Closures of the Vlasov-Poisson Equations Discretized with a Symmetrically Weighted Hermite Spectral Expansion in Velocity. (submitted). preprint doi: [arXiv:2407.09626](https://arxiv.org/abs/2407.09626).
 
 ## Journal Publications 
 1. **Issan O**, Koshkarov O, Halpern F, Kramer B, Delzanno GL (2024). Anti-symmetric and Positivity Preserving Formulation of a Spectral Method for Vlasov-Poisson Equations. Journal of Computational Physics (in press). doi: [10.1016/j.jcp.2024.113263](https://doi.org/10.1016/j.jcp.2024.113263)
