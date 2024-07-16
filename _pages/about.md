@@ -19,11 +19,11 @@ My research interests are in data assimilation, model order reduction, and compu
 
 Upcoming Events
 ======
-**Aug 1-9, 2024** I am looking forward to attending the [15th International Symposium for Space Simulations (ISSS-15) and the 16th International Workshop on the Interrelationship between Plasma Experiments in the Laboratory and in Space (IPELS-16)](https://plan.events.mpg.de/event/152/) hosted by the Max Planck Institute for Plasma Physics (IPP) in Garching near Munich, Germany. I will be presenting about my latest work with LANL (T5) on developing kinetic solvers via velocity spectral methods.  
+**Aug 1-9, 2024** I am looking forward to attending the [15th International Symposium for Space Simulations (ISSS-15) and the 16th International Workshop on the Interrelationship between Plasma Experiments in the Laboratory and in Space (IPELS-16)](https://plan.events.mpg.de/event/152/) hosted by the Max Planck Institute for Plasma Physics (IPP) in Garching, Germany. I will be presenting about my latest work with LANL (T5) on developing kinetic solvers via velocity spectral methods.  
 
-**Aug 11-16, 2024** I am excited to attend the [Solar Heliospheric and INterplanetary Environment (SHINE)](https://helioshine.org/) workshop in Juneau, Alaska. I will be presenting my latest work on kinetic-fluid simulation coupling using the spectral plasma solver. Feel free to reach out if you are planning to attend the conference and want to chat.
+**Aug 11-16, 2024** I am excited to attend the [Solar Heliospheric and INterplanetary Environment (SHINE)](https://helioshine.org/) workshop in Juneau, Alaska. I will be presenting my latest work on the spectral plasma solver. Feel free to reach out if you are planning to attend the conference and want to chat!
 
-**Sept 9-13, 2024**  I will be attending the [Model Reduction and Surrogate Modeling (MORE)](https://more2024.sciencesconf.org/) conference which will be held at my home university--University of California San Diego.
+**Sept 9-13, 2024** I will be attending the [Model Reduction and Surrogate Modeling (MORE)](https://more2024.sciencesconf.org/) conference which will be held at my home university--University of California San Diego.
 
 Recent News
 ======
