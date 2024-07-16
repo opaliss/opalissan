@@ -27,11 +27,11 @@ Upcoming Events
 
 Recent News
 ======
-**June 24-Aug 16, 2024** I am a Heliophysics researcher in [FDL-X Geoeffectiveness Continuous Learning research group](https://frontierdevelopmentlab.org/fdl2024) developing geomagnetic ground perturbations real time forecasts with quantified uncertainties. My contribution is focusing on the quantifying uncertainties stemming from the spherical harmonics interpolation via Gaussian process regression.
+**June 24-Aug 16, 2024** I am a Heliophysics researcher in [FDL-X Geoeffectiveness Continuous Learning research group](https://frontierdevelopmentlab.org/fdl2024) developing geomagnetic ground perturbations real time forecasts with quantified uncertainties. My contribution is focusing on quantifying interpolation uncertainties via Gaussian process regression.
 
 **June 5, 2024** I was awarded the *2023-2024 MAE PhD Outstanding Teaching Assistant of the Year Award* for the Systems and Signals course in W24. 
 
-**April 2-May 30, 2024** I was great to return to the Los Alamos National Laboratory (LANL) [T5 Applied Mathematics and Plasma Physics division](https://www.lanl.gov/org/ddste/aldsc/theoretical/applied-mathematics-plasma-physics/index.php) as a computational science graduate student. I will be continuing to work with Gian Luca Delzanno and Oleksandr Koshkarov on various extensions/modifications of the LANL spectral plasma solver.
+**April 2-May 30, 2024** It was great to return to the Los Alamos National Laboratory (LANL) [T5 Applied Mathematics and Plasma Physics division](https://www.lanl.gov/org/ddste/aldsc/theoretical/applied-mathematics-plasma-physics/index.php) as a computational science graduate student. I will be continuing to work with Gian Luca Delzanno and Oleksandr Koshkarov on various extensions/modifications of the LANL spectral plasma solver.
 
 **April 9, 2024** It was a pleasure to give a seminar talk at the [Machine Learning for Planetary Science and Space Physics (ML4PSP)](https://ml4psp.github.io/schedule.html) on [Bayesian Inference and Global Sensitivity Analysis for Ambient Solar Wind Prediction](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023SW003555). The seminar recording is added to [youtube](https://www.youtube.com/watch?v=sR7qybTdw1k&themeRefresh=1).  
 
