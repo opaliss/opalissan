@@ -11,22 +11,25 @@ redirect_from:
 About Me
 ======
 
-I am a third year Ph.D. student in the [Department of Mechanical and Aerospace Engineering](https://mae.ucsd.edu/) at UC San Diego, working under the guidance of Prof. [Boris Kramer](http://kramer.ucsd.edu/index.html).
-I am currently working on space-weather forecasting. In particular, developing methods of uncertainty quantification and reduced-order modeling to predict the solar wind and Earth's upper atmosphere. Before UC San Diego, I attended San Diego State University where I 
+I am a fourth year Ph.D. student in the [Department of Mechanical and Aerospace Engineering](https://mae.ucsd.edu/) at UC San Diego, working under the guidance of Prof. [Boris Kramer](http://kramer.ucsd.edu/index.html).
+I am currently working on developing numerical techniques to solve the kinetic plasma equations. In particular, developing spectral methods and fluid closure approaches. Before UC San Diego, I attended San Diego State University where I 
 completed my B.S. in Applied Mathematics under the guidance of Prof. [Christoper Curtis](https://cwcurtis.github.io/) while working as a Solar Physics Intern at [Predictive Science Inc](https://www.predsci.com/portal/home.php).
 
-My research interests are in data assimilation, model order reduction, and computational plasma physics.
+My research interests are in computational plasma physics, kinetic plasma instabilities, and cold plasma magnetospheric physics.
 
 Upcoming Events
 ======
-**Aug 1-9, 2024** I am looking forward to attending the [15th International Symposium for Space Simulations (ISSS-15) and the 16th International Workshop on the Interrelationship between Plasma Experiments in the Laboratory and in Space (IPELS-16)](https://plan.events.mpg.de/event/152/) hosted by the Max Planck Institute for Plasma Physics (IPP) in Garching, Germany. I will be presenting about my latest work with LANL (T5) on developing kinetic solvers via velocity spectral methods.  
-
-**Aug 11-16, 2024** I am excited to attend the [Solar Heliospheric and INterplanetary Environment (SHINE)](https://helioshine.org/) workshop in Juneau, Alaska. I will be presenting my latest work on the spectral plasma solver. Feel free to reach out if you are planning to attend the conference and want to chat!
-
 **Sept 9-13, 2024** I will be attending the [Model Reduction and Surrogate Modeling (MORE)](https://more2024.sciencesconf.org/) conference which will be held at my home university--University of California San Diego.
+
+**Sept 16-20, 2024** Looking forward to attending the [CRC International Summer School 2024](https://www.sfb1294.de/events/event/spring-school-2024) near Hamburg, Germany and learn about the latest uncertainty quantification techniques. 
+
 
 Recent News
 ======
+**Aug 11-16, 2024** I attended the [Solar Heliospheric and INterplanetary Environment (SHINE)](https://helioshine.org/) workshop in Juneau, Alaska, where I presented my latest work on the spectral plasma solver. 
+
+**Aug 1-9, 2024** I was great to attend the [15th International Symposium for Space Simulations (ISSS-15) and the 16th International Workshop on the Interrelationship between Plasma Experiments in the Laboratory and in Space (IPELS-16)](https://plan.events.mpg.de/event/152/) hosted by the Max Planck Institute for Plasma Physics (IPP) in Garching, Germany. I presented about my latest work with LANL (T5) on developing kinetic solvers via velocity spectral methods.
+
 **June 24-Aug 16, 2024** I am a heliophysics researcher in [FDL-X geoeffectiveness continuous learning research group](https://frontierdevelopmentlab.org/fdl2024) developing real time forecasts of geomagnetic ground perturbations with quantified uncertainties. My contribution is focusing on quantifying interpolation uncertainties via Gaussian process regression.
 
 **June 5, 2024** I was awarded the *2023-2024 MAE PhD Outstanding Teaching Assistant of the Year Award* for the Systems and Signals course in W24. 
