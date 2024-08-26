@@ -12,8 +12,7 @@ About Me
 ======
 
 I am a fourth year Ph.D. student in the [Department of Mechanical and Aerospace Engineering](https://mae.ucsd.edu/) at UC San Diego, working under the guidance of Prof. [Boris Kramer](http://kramer.ucsd.edu/index.html).
-I am currently working on developing numerical techniques to solve the kinetic plasma equations. In particular, developing spectral methods and fluid closure approaches. Before UC San Diego, I attended San Diego State University where I 
-completed my B.S. in Applied Mathematics under the guidance of Prof. [Christoper Curtis](https://cwcurtis.github.io/) while working as a Solar Physics Intern at [Predictive Science Inc](https://www.predsci.com/portal/home.php).
+I am currently working on developing numerical techniques to solve the kinetic plasma equations with [Gian Luca Delzanno](https://scholar.google.com/citations?user=aJr9S0EAAAAJ&hl=en) (LANL), [Oleksandr Koshkarov](https://scholar.google.com/citations?user=jEG6zIQAAAAJ&hl=en) (LANL), and [Federico Halpern](https://scholar.google.ch/citations?user=sKnZOwwAAAAJ&hl=en) (General Atomics). In particular, developing spectral methods and fluid closure approaches.
 
 My research interests are in computational plasma physics, kinetic plasma instabilities, and cold plasma magnetospheric physics.
 
