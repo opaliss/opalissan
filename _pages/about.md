@@ -10,21 +10,15 @@ redirect_from:
 
 About Me
 ======
-
-I am a fourth year Ph.D. student in the [Department of Mechanical and Aerospace Engineering](https://mae.ucsd.edu/) at UC San Diego, working under the guidance of Prof. [Boris Kramer](http://kramer.ucsd.edu/index.html).
-I am currently working on developing numerical techniques to solve the kinetic plasma equations with [Gian Luca Delzanno](https://scholar.google.com/citations?user=aJr9S0EAAAAJ&hl=en) (LANL), [Oleksandr Koshkarov](https://scholar.google.com/citations?user=jEG6zIQAAAAJ&hl=en) (LANL), and [Federico Halpern](https://scholar.google.ch/citations?user=sKnZOwwAAAAJ&hl=en) (General Atomics). In particular, developing spectral methods and fluid closure approaches.
-
-My research interests are in computational plasma physics, kinetic plasma instabilities, and cold plasma magnetospheric physics.
-
-Upcoming Events
-======
-**Sept 9-13, 2024** I will be attending the [Model Reduction and Surrogate Modeling (MORE)](https://more2024.sciencesconf.org/) conference which will be held at my home university--University of California San Diego.
-
-**Sept 16-20, 2024** Looking forward to attending the [CRC International Summer School 2024](https://www.sfb1294.de/events/event/spring-school-2024) near Hamburg, Germany and learn about the latest uncertainty quantification techniques. 
+I am a fourth-year Ph.D. student in Mechanical and Aerospace Engineering at UC San Diego, specializing in computational plasma physics. My current research focuses on understanding how whistler waves affect plasma turbulence in Earth's magnetosphere. I collaborate with Los Alamos National Laboratory and General Atomics, with a significant part of my work involving the development of efficient numerical techniques for solving high-dimensional kinetic plasma equations.
 
 
 Recent News
 ======
+**Sept 16-20, 2024** I enjoyed attending the [CRC International Summer School 2024](https://www.sfb1294.de/events/event/spring-school-2024) near Hamburg, Germany, where I learned about the latest uncertainty quantification techniques. 
+
+**Sept 9-13, 2024** I attended the [Model Reduction and Surrogate Modeling (MORE)](https://more2024.sciencesconf.org/) conference which was held at my home university--University of California San Diego.
+
 **Aug 11-16, 2024** I attended the [Solar Heliospheric and INterplanetary Environment (SHINE)](https://helioshine.org/) workshop in Juneau, Alaska, where I presented my latest work on the spectral plasma solver. 
 
 **Aug 1-9, 2024** It was great to attend the [15th International Symposium for Space Simulations (ISSS-15) and the 16th International Workshop on the Interrelationship between Plasma Experiments in the Laboratory and in Space (IPELS-16)](https://plan.events.mpg.de/event/152/) hosted by the Max Planck Institute for Plasma Physics (IPP) in Garching, Germany. I presented about my latest work with LANL (T5) on developing kinetic solvers via velocity spectral methods.
