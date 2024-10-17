@@ -76,4 +76,4 @@ Recent News
 
 **Oct 17-19, 2021**: Attended the [NextProf Pathfinder](https://nextprof.engin.umich.edu/) 2021 workshop at the University of Michigan.
 
-**Oct, 2021**: I moved to UCSD to pursue a PhD in Mechanical and Aerospace Engineering with [Prof. Boris Kramer](http://kramer.ucsd.edu/).
+**Oct, 2021**: I moved to UCSD to pursue a PhD in Mechanical and Aerospace Engineering!
