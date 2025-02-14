@@ -10,7 +10,7 @@ redirect_from:
 
 About Me
 ======
-I am a fourth-year Ph.D. student in Mechanical and Aerospace Engineering at UC San Diego, working with Prof. Boris Kramer. My current research focuses on understanding how whistler waves affect plasma turbulence in Earth's magnetosphere. I collaborate with the T5 division at Los Alamos National Laboratory, where a significant aspect of my work involves developing efficient numerical techniques for solving kinetic plasma equations.
+I am a fourth-year Ph.D. student in Mechanical and Aerospace Engineering at UC San Diego superised by Prof. Boris Kramer. My current research focuses on understanding how cold plasma effects whistler waves generated in Earth's magnetosphere. I collaborate with the T5 division at Los Alamos National Laboratory (working with Gian Luca Delzanno), where a significant aspect of my work involves developing efficient numerical techniques for solving kinetic plasma equations.
 
 Recent News
 ======
