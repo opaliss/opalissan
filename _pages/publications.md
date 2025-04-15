@@ -19,4 +19,4 @@ author_profile: true
 10. Riley P and **Issan O** (2021). Using a Heliospheric Upwinding eXtrapolation Technique to Magnetically Connect Different Regions of the Heliosphere. Frontiers in Physics, 9:679497. doi: [10.3389/fphy.2021.679497](https://www.frontiersin.org/articles/10.3389/fphy.2021.679497/full)
 
 ## Blog Posts
-1. **Issan O** and Kramer B (2023). [Speeding Up Solar Wind Forecasts with Reduced-order Modeling](https://sinews.siam.org/Details-Page/speeding-up-solar-wind-forecasts-with-reduced-order-modeling). Society for Industrial and Applied Mathematics News Blog. 
+11. **Issan O** and Kramer B (2023). [Speeding Up Solar Wind Forecasts with Reduced-order Modeling](https://sinews.siam.org/Details-Page/speeding-up-solar-wind-forecasts-with-reduced-order-modeling). Society for Industrial and Applied Mathematics News Blog. 
