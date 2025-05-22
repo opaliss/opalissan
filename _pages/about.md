@@ -10,10 +10,18 @@ redirect_from:
 
 About Me
 ======
-I am a fourth-year Ph.D. student in Mechanical and Aerospace Engineering at UC San Diego supervised by Prof. Boris Kramer. My current research focuses on understanding how cold plasma effects whistler waves generated in Earth's magnetosphere. I collaborate with the T5 division at Los Alamos National Laboratory (working with Gian Luca Delzanno), where a significant aspect of my work involves developing efficient numerical techniques for solving kinetic plasma equations.
+I am currently a fourth-year Ph.D. candidate in the Department of Mechanical and Aerospace Engineering at UC San Diego, advised by Prof. Boris Kramer. My current research is supervised by Gian Luca Delzanno at the Los Alamos National Laboratory T5 division, where we aim to understand how cold plasma effects whistler waves generated in Earth's inner magnetosphere. Another aspect of my research involves developing efficient numerical techniques for solving kinetic plasma equations.
+
+
+Upcoming Events
+======
+**June 22-27, 2025** I look forward to attending GEM workshop in Des Moines, Iowa. I will be presenting a poster on my latest work understanding secondary drift-driven instabilities caused by whistler waves via quasilinear theory. 
+
 
 Recent News
 ======
+**May 14, 2025** I passed my PhD candidacy exam! I am very grateful for my PhD committee members: Boris Kramer, Gian Luca Delzanno, Christopher Holland, Alexey Arefiev, and Matthias Morzfeld. Extra special thanks goes to my mentor Gian Luca Delzanno for flying out from Los Alamos to attend the meeting and shaping my PhD research. It's been a fantastic ride so far.
+
 **Sept 16-20, 2024** I enjoyed attending the [CRC International Summer School 2024](https://www.sfb1294.de/events/event/spring-school-2024) near Hamburg, Germany, where I learned about the latest uncertainty quantification techniques. 
 
 **Sept 9-13, 2024** I attended the [Model Reduction and Surrogate Modeling (MORE)](https://more2024.sciencesconf.org/) conference which was held at my home university--University of California San Diego.
