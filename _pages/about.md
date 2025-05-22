@@ -15,12 +15,12 @@ I am currently a fourth-year Ph.D. candidate in the Department of Mechanical and
 
 Upcoming Events
 ======
-**June 22-27, 2025** I look forward to attending [GEM workshop](https://gemworkshop.org/) in Des Moines, Iowa. I will be presenting a poster on understanding a secondary drift-driven instabilities caused by whistler waves using quasilinear theory. The electrostatic secondary-instabilities (analogous to the electron cyclotron drift instability) transfer energy from whistler waves to cold electrons, potentially explaining the discrepancy between simulated and observed parallel-propagating whistler wave amplitudes. 
+**June 22-27, 2025** I look forward to attending [GEM workshop](https://gemworkshop.org/) in Des Moines, Iowa. I will be presenting a poster on understanding secondary drift-driven instabilities caused by whistler waves using quasilinear theory. The electrostatic secondary-instabilities (analogous to the electron cyclotron drift instability) transfer energy from whistler waves to cold electrons, potentially explaining the discrepancy between simulated and observed parallel-propagating whistler wave amplitudes. 
 
 
 Recent News
 ======
-**May 14, 2025** I passed my PhD candidacy exam! I am very grateful for my PhD committee members: Boris Kramer, Gian Luca Delzanno, Christopher Holland, Alexey Arefiev, and Matthias Morzfeld. Extra thanksto my mentor Gian Luca Delzanno for flying out from Los Alamos to attend the meeting and shaping my PhD research. It's been a fantastic ride so far.
+**May 14, 2025** I passed my PhD candidacy exam! I am very grateful for my PhD committee members: Boris Kramer, Gian Luca Delzanno, Christopher Holland, Alexey Arefiev, and Matthias Morzfeld. Extra thanks to my mentor Gian Luca Delzanno for flying out from Los Alamos to attend the meeting and shaping my PhD research. It's been a fantastic ride so far.
 
 **Sept 16-20, 2024** I enjoyed attending the [CRC International Summer School 2024](https://www.sfb1294.de/events/event/spring-school-2024) near Hamburg, Germany, where I learned about the latest uncertainty quantification techniques. 
 
