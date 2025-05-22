@@ -15,7 +15,7 @@ I am currently a fourth-year Ph.D. candidate in the Department of Mechanical and
 
 Upcoming Events
 ======
-**June 22-27, 2025** I look forward to attending [GEM workshop](https://gemworkshop.org/) in Des Moines, Iowa. I will be presenting a poster on understanding secondary drift-driven instabilities caused by whistler waves using quasilinear theory. The electrostatic secondary-instabilities (analogous to the electron cyclotron drift instability) transfer energy from whistler waves to cold electrons, potentially explaining the discrepancy between simulated and observed parallel-propagating whistler wave amplitudes. 
+**June 22-27, 2025** I look forward to attending [GEM workshop](https://gemworkshop.org/) in Des Moines, Iowa. I will be presenting a poster on understanding secondary drift-driven instabilities caused by whistler waves using quasilinear theory. The electrostatic secondary-instabilities (analogous to the electron cyclotron drift instability) transfer energy from whistler waves to cold electrons. This mechanism potentially explains the discrepancy between simulated and observed parallel-propagating whistler wave amplitudes. 
 
 
 Recent News
