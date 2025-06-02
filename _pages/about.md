@@ -30,7 +30,7 @@ Recent News
 
 **Aug 1-9, 2024** It was great to attend the [15th International Symposium for Space Simulations (ISSS-15) and the 16th International Workshop on the Interrelationship between Plasma Experiments in the Laboratory and in Space (IPELS-16)](https://plan.events.mpg.de/event/152/) hosted by the Max Planck Institute for Plasma Physics (IPP) in Garching, Germany. I presented about my latest work with LANL (T5) on developing kinetic solvers via velocity spectral methods.
 
-**June 24-Aug 16, 2024** I was a heliophysics researcher in [FDL-X geoeffectiveness continuous learning research group](https://frontierdevelopmentlab.org/fdl2024) developing real time forecasts of geomagnetic ground perturbations with quantified uncertainties. My contribution is focusing on quantifying interpolation uncertainties via Gaussian process regression. The final presentation recording is added to [youtube](https://www.youtube.com/watch?v=2kMSgGC5jv8). 
+**June 24-Aug 16, 2024** I was a heliophysics researcher in [FDL-X geoeffectiveness continuous learning research group](https://frontierdevelopmentlab.org/fdl2024) developing real time forecasts of geomagnetic ground perturbations with quantified uncertainties. My contribution is focusing on quantifying interpolation uncertainties via Gaussian process regression. 
 
 **June 5, 2024** I was awarded the *2023-2024 MAE PhD Outstanding Teaching Assistant of the Year Award* for the Systems and Signals course in W24. 
 
