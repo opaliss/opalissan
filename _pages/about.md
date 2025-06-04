@@ -20,7 +20,7 @@ Upcoming Events
 
 Recent News
 ======
-**June 1st, 2025** I was awarded the **Outstanding PhD Student of the Year Award** in the Department of Mechanical and Aerospace Engineering-- Many thanks to all my collaborators and mentors!
+**June 1st, 2025** I was awarded the *2024-2025 Outstanding PhD Student of the Year Award* in the Department of Mechanical and Aerospace Engineering-- Many thanks to all my collaborators and mentors!
 
 **May 14, 2025** I passed my PhD candidacy exam! I am very grateful for my PhD committee members: Boris Kramer, Gian Luca Delzanno, Christopher Holland, Alexey Arefiev, and Matthias Morzfeld. Extra thanks to my mentor Gian Luca Delzanno for flying out from Los Alamos to attend the meeting and shaping my PhD research. It's been a fantastic ride so far.
 
