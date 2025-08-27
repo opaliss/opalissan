@@ -15,11 +15,16 @@ I am currently a fourth-year Ph.D. candidate in the Department of Mechanical and
 
 Upcoming Events
 ======
-**June 22-27, 2025** I look forward to attending [GEM workshop](https://gemworkshop.org/) in Des Moines, Iowa. I will be presenting a poster on understanding secondary drift-driven instabilities caused by whistler waves using quasilinear theory. The electrostatic secondary-instabilities (analogous to the electron cyclotron drift instability) transfer energy from whistler waves to cold electrons. This mechanism potentially explains the discrepancy between simulated and observed parallel-propagating whistler wave amplitudes. 
+**Sept 22-26, 2025** I look forward to attending the [Machine Learning in Heliophysics workshop](https://ml-helio.github.io/) in Madrid, Spain. I will be presenting on our on Bayesian inference and sensitivity analysis work for operational solar wind forecasting ([link to paper](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023SW003555)). 
 
+**December 15-19, 2025** I am excited for [American Geophysical Union (AGU 2025)](https://www.agu.org/annual-meeting) annual meeting in New Orleans, Louisiana. I am on the organizing committee for *SM029. The low-energy/cold particle populations and the systems science of geospace* minisymposium. 
 
 Recent News
 ======
+**August 18-22, 2025** I attended the [Computational Physics School for Fusion Research (CPS-FR 2025)](https://sites.google.com/psfc.mit.edu/cps-fr2025/home?authuser=0) at MIT Plasma Science and Fusion Center! I learned about high performance computing and statistical/machine learning concepts for plasma research. Many thanks to Christina Rea, Paul Bonoli, and Jessica Coco for organizing the event and student travel support. 
+
+**June 22-27, 2025** It was great to attend the [GEM workshop](https://gemworkshop.org/) in Des Moines, Iowa. I presented a poster on secondary drift-driven instabilities caused by whistler waves using quasilinear theory. The electrostatic secondary-instabilities transfer energy from whistler waves to cold electrons. This mechanism potentially explains the discrepancy between simulated and observed parallel-propagating whistler wave amplitudes. 
+
 **June 1st, 2025** I was awarded the *2024-2025 Outstanding PhD Student of the Year Award* in the Department of Mechanical and Aerospace Engineering-- Many thanks to all my collaborators and mentors!
 
 **May 14, 2025** I passed my PhD candidacy exam! I am very grateful for my PhD committee members: Boris Kramer, Gian Luca Delzanno, Christopher Holland, Alexey Arefiev, and Matthias Morzfeld. Extra thanks to my mentor Gian Luca Delzanno for flying out from Los Alamos to attend the meeting and shaping my PhD research. It's been a fantastic ride so far.
