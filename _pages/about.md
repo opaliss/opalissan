@@ -12,7 +12,7 @@ About Me
 ======
 I am currently a fourth-year Ph.D. candidate in the Department of Mechanical and Aerospace Engineering at UC San Diego, advised by [Prof. Boris Kramer](https://kramer.ucsd.edu/). My current research is supervised by [Gian Luca Delzanno](https://scholar.google.com/citations?user=aJr9S0EAAAAJ&hl=en) at the Los Alamos National Laboratory T5 division and [Vadim Roytershteyn](https://www.spacescience.org/bio.php?emp=VROYTERSHTEYN) at the Space Science Institute, where we aim to understand how cold plasma effects whistler waves generated in Earth's inner magnetosphere. Another aspect of my research involves developing efficient numerical techniques for solving kinetic plasma equations.
 
-I am graduating in the Spring of 2026, and planning the next steps! Here is a link to my [CV](../docs/opal_issan_CV_2025.pdf)
+I am graduating in the Spring of 2026, and planning the next steps! Here is a link to my [CV](../opal_issan_CV_2025.pdf)
 
 
 
