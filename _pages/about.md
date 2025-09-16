@@ -14,6 +14,9 @@ I am currently a fourth-year Ph.D. candidate in the Department of Mechanical and
 
 I am graduating in the Spring of 2026, and planning the next steps! 
 
+
+
+
 Upcoming Events
 ======
 **Sept 22-26, 2025** I look forward to attending the [Machine Learning in Heliophysics workshop](https://ml-helio.github.io/) in Madrid, Spain. I will be presenting on our on Bayesian inference and sensitivity analysis work for operational solar wind forecasting ([link to paper](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023SW003555)). 
