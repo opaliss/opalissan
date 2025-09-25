@@ -10,21 +10,18 @@ redirect_from:
 
 About Me
 ======
-I am currently a fourth-year Ph.D. candidate in the Department of Mechanical and Aerospace Engineering at UC San Diego, advised by [Prof. Boris Kramer](https://kramer.ucsd.edu/). My current research is supervised by [Gian Luca Delzanno](https://scholar.google.com/citations?user=aJr9S0EAAAAJ&hl=en) at the Los Alamos National Laboratory T5 division and [Vadim Roytershteyn](https://www.spacescience.org/bio.php?emp=VROYTERSHTEYN) at the Space Science Institute, where we aim to understand how cold plasma effects whistler waves generated in Earth's inner magnetosphere. Another aspect of my research involves developing efficient numerical techniques for solving kinetic plasma equations.
+I am currently a 5th year Ph.D. candidate in the Department of Mechanical and Aerospace Engineering at UC San Diego, advised by [Prof. Boris Kramer](https://kramer.ucsd.edu/). My current research is supervised by [Gian Luca Delzanno](https://scholar.google.com/citations?user=aJr9S0EAAAAJ&hl=en) at the Los Alamos National Laboratory T5 division and [Vadim Roytershteyn](https://www.spacescience.org/bio.php?emp=VROYTERSHTEYN) at the Space Science Institute, where we aim to understand how cold plasma effects whistler waves generated in Earth's inner magnetosphere. Another aspect of my research involves developing efficient numerical techniques for solving kinetic plasma equations.
 
 I am graduating in the Spring of 2026, and planning the next steps! Here is a link to my [CV.](./opal_issan_CV_2025.pdf)
 
-
-
-
 Upcoming Events
 ======
-**Sept 22-26, 2025** I look forward to attending the [Machine Learning in Heliophysics workshop](https://ml-helio.github.io/) in Madrid, Spain. I will be presenting on our on Bayesian inference and sensitivity analysis work for operational solar wind forecasting ([link to paper](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023SW003555)). 
-
 **December 15-19, 2025** I am excited for [American Geophysical Union (AGU 2025)](https://www.agu.org/annual-meeting) annual meeting in New Orleans, Louisiana. I am on the organizing committee for *SM029. The low-energy/cold particle populations and the systems science of geospace* minisymposium. 
 
 Recent News
 ======
+**Sept 22-26, 2025** Excited to attend the [Machine Learning in Heliophysics workshop](https://ml-helio.github.io/) in Madrid, Spain. I will be presenting on our on Bayesian inference and sensitivity analysis work for operational solar wind forecasting ([link to paper](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023SW003555)). 
+
 **August 18-22, 2025** I attended the [Computational Physics School for Fusion Research (CPS-FR 2025)](https://sites.google.com/psfc.mit.edu/cps-fr2025/home?authuser=0) at MIT Plasma Science and Fusion Center! I learned about high performance computing and statistical/machine learning concepts for plasma research. Many thanks to Christina Rea, Paul Bonoli, and Jessica Coco for organizing the event and student travel support. 
 
 **June 22-27, 2025** It was great to attend the [GEM workshop](https://gemworkshop.org/) in Des Moines, Iowa. I presented a poster on secondary drift-driven instabilities caused by whistler waves using quasilinear theory. The electrostatic secondary-instabilities transfer energy from whistler waves to cold electrons. This mechanism potentially explains the discrepancy between simulated and observed parallel-propagating whistler wave amplitudes. 
