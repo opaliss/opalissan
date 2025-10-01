@@ -20,7 +20,7 @@ Upcoming Events
 
 Recent News
 ======
-**Sept 22-26, 2025** Excited to attend the [Machine Learning in Heliophysics workshop](https://ml-helio.github.io/) in Madrid, Spain. I will be presenting on our on Bayesian inference and sensitivity analysis work for operational solar wind forecasting ([link to paper](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023SW003555)). 
+**Sept 22-26, 2025** It was an honor to be an invited speaker at the [Machine Learning in Heliophysics workshop](https://ml-helio.github.io/) in Madrid, Spain. I presented on Bayesian inference and sensitivity analysis work for operational solar wind forecasting ([link to paper](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023SW003555)). 
 
 **August 18-22, 2025** I attended the [Computational Physics School for Fusion Research (CPS-FR 2025)](https://sites.google.com/psfc.mit.edu/cps-fr2025/home?authuser=0) at MIT Plasma Science and Fusion Center! I learned about high performance computing and statistical/machine learning concepts for plasma research. Many thanks to Christina Rea, Paul Bonoli, and Jessica Coco for organizing the event and student travel support. 
 
@@ -38,7 +38,7 @@ Recent News
 
 **Aug 1-9, 2024** It was great to attend the [15th International Symposium for Space Simulations (ISSS-15) and the 16th International Workshop on the Interrelationship between Plasma Experiments in the Laboratory and in Space (IPELS-16)](https://plan.events.mpg.de/event/152/) hosted by the Max Planck Institute for Plasma Physics (IPP) in Garching, Germany. I presented about my latest work with LANL (T5) on developing kinetic solvers via velocity spectral methods.
 
-**June 24-Aug 16, 2024** I was a heliophysics researcher in [FDL-X geoeffectiveness continuous learning research group](https://frontierdevelopmentlab.org/fdl2024) developing real time forecasts of geomagnetic ground perturbations with quantified uncertainties. My contribution is focusing on quantifying interpolation uncertainties via Gaussian process regression. 
+**June 24-Aug 16, 2024** I was a Heliophysics researcher in [FDL-X geoeffectiveness continuous learning research group](https://frontierdevelopmentlab.org/fdl2024) developing real time forecasts of geomagnetic ground perturbations with quantified uncertainties. My contribution is focusing on quantifying interpolation uncertainties via Gaussian process regression. 
 
 **June 5, 2024** I was awarded the *2023-2024 MAE PhD Outstanding Teaching Assistant of the Year Award* for the Systems and Signals course in W24. 
 
