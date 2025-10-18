@@ -32,7 +32,7 @@ Recent News
 
 **Sept 16-20, 2024** I enjoyed attending the [CRC International Summer School 2024](https://www.sfb1294.de/events/event/spring-school-2024) near Hamburg, Germany, where I learned about the latest uncertainty quantification techniques. 
 
-**Sept 9-13, 2024** I attended the [Model Reduction and Surrogate Modeling (MORE)](https://more2024.sciencesconf.org/) conference which was held at my home university--University of California San Diego.
+**Sept 9-13, 2024** I attended the [Model Reduction and Surrogate Modeling (MORE)](https://more2024.sciencesconf.org/) conference which was held at my home university at UCSD.
 
 **Aug 11-16, 2024** I attended the [Solar Heliospheric and INterplanetary Environment (SHINE)](https://helioshine.org/) workshop in Juneau, Alaska, where I presented my latest work on the spectral plasma solver. 
 
