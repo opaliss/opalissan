@@ -6,7 +6,7 @@ author_profile: true
 ---
 ## Journal Publications 
 1. **Issan O**, Koshkarov O, Halpern F, Delzanno GL, Kramer B (2025). Conservative data-driven model order reduction of a fluid-kinetic spectral solver. Physics of Plasmas, 32:083907. doi: [10.1063/5.0275478](https://pubs.aip.org/aip/pop/article/32/8/083907/3361029/Conservative-projection-based-data-driven-model)
-* Link to [poster](./MORE24.pdf)
+* Link to [poster](https://github.com/opaliss/opalissan/blob/master/MORE24.pdf)
 2. **Issan O**, Chapurin O, Koshkarov O, Delzanno GL (2025). Effects of Artificial Collisions, Filtering, and Nonlocal Closure Approaches on Hermite-based Vlasov-Poisson Simulations. Physics of Plasmas, 32:033906. doi: [10.1063/5.0252456](https://doi.org/10.1063/5.0252456)
 * Link to [slides](./Holland_group_meeting.pdf)
 3. **Issan O**, Koshkarov O, Halpern F, Kramer B, Delzanno GL (2025). Conservative Closures of the Vlasov-Poisson Equations Based on Symmetrically Weighted Hermite Spectral Expansion. Journal of Computational Physics, 524:113741. doi: [10.1016/j.jcp.2025.113741](https://www.sciencedirect.com/science/article/pii/S0021999125000245?via%3Dihub)
