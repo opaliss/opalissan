@@ -28,7 +28,7 @@ Recent News
 
 **June 1st, 2025** I was awarded the *[2024-2025 Outstanding PhD Student of the Year Award](https://www.linkedin.com/feed/update/urn:li:activity:7345888932733009921/)* in the Department of Mechanical and Aerospace Engineering-- Many thanks to all my collaborators and mentors!
 
-**May 14, 2025** I passed my PhD candidacy exam! I am very grateful for my PhD committee members: Boris Kramer, Gian Luca Delzanno, Christopher Holland, Alexey Arefiev, and Matthias Morzfeld. Extra thanks to my mentor Gian Luca Delzanno for flying out from Los Alamos to attend the meeting and shaping my PhD research. It's been a fantastic ride so far.
+**May 14, 2025** I passed my PhD candidacy exam! I am very grateful for my PhD committee members: Prof. Boris Kramer, Dr. Gian Luca Delzanno, Prof. Christopher Holland, Prof. Alexey Arefiev, and Prof. Matthias Morzfeld. Extra thanks to my mentor Gian Luca Delzanno for flying out from Los Alamos to attend the meeting and shaping my PhD research. It's been a fantastic ride so far.
 
 **Sept 16-20, 2024** I enjoyed attending the [CRC International Summer School 2024](https://www.sfb1294.de/events/event/spring-school-2024) near Hamburg, Germany, where I learned about the latest uncertainty quantification techniques. 
 
@@ -64,7 +64,7 @@ Recent News
 
 **March 9-10, 2023**: I attended the [Space Weather with Quantified Uncertainties Spring Meeting 2023](https://linaresr.scripts.mit.edu/swqu/) and got to visit the MIT Haystack observatory! 
 
-**Dec 22, 2022** I passed my Departmental Qualifying Exam (DQE) in computational fluid dynamics, fluid instabilities, and model order reduction. Many thanks to my advisor [Prof. Boris Kramer](http://kramer.ucsd.edu/), and committee members [Prof. Oliver Schmidt](https://flowphysics.ucsd.edu/) and [Prof. David Saintillan](http://stokeslet.ucsd.edu/). 
+**Dec 22, 2022** I passed my Departmental Qualifying Exam (DQE) in computational fluid dynamics, fluid instabilities, and model order reduction. Many thanks to my advisor Prof. Boris Kramer, and committee members Prof. Oliver Schmidt and Prof. David Saintillan. 
 
 **Sept 26-30, 2022**: I gave a talk at the mini-symposium on *Data-driven, physics-informed methods for computational science* at [Society for Industrial and Applied Mathematics (SIAM) conference on Mathematics of Data Science](https://www.siam.org/conferences/cm/conference/mds22); My talk was about ["Predicting Solar Wind Streams from the Inner-Heliosphere to Earth via Shifted Operator Inference"](https://arxiv.org/abs/2203.13372).
 
