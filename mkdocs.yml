@@ -1,5 +1,5 @@
 site_name: Opal Issan #name of your site.
-site_description: In this website, I will discuss my academic background and research experience which led me to discover my curiosity in mathematical modeling, numerical optimization, dynamical systems, and machine learning.
+site_description:
 
 theme:
   name: material
