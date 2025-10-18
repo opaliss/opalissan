@@ -20,7 +20,7 @@ Upcoming Events
 
 Recent News
 ======
-**Sept 22-26, 2025** It was an honor to be an invited speaker at the [Machine Learning in Heliophysics workshop](https://ml-helio.github.io/) in Madrid, Spain. I presented on Bayesian inference and sensitivity analysis work for operational solar wind forecasting ([link to paper](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023SW003555)). 
+**Sept 22-26, 2025** It was an honor to be an invited speaker at the [Machine Learning in Heliophysics workshop](https://ml-helio.github.io/) in Madrid, Spain. I presented on Bayesian inference and sensitivity analysis for operational solar wind forecasting ([link to paper](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023SW003555)). 
 
 **August 18-22, 2025** I attended the [Computational Physics School for Fusion Research (CPS-FR 2025)](https://sites.google.com/psfc.mit.edu/cps-fr2025/home?authuser=0) at MIT Plasma Science and Fusion Center! I learned about high performance computing and statistical/machine learning concepts for plasma research. Many thanks to Christina Rea, Paul Bonoli, and Jessica Coco for organizing the event and student travel support. 
 
