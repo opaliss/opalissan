@@ -16,7 +16,7 @@ I am graduating in the Spring of 2026, and planning the next steps! Here is a li
 
 Upcoming Events
 ======
-**December 15-19, 2025** I am excited for [American Geophysical Union (AGU 2025)](https://www.agu.org/annual-meeting) annual meeting in New Orleans, Louisiana. I am on the organizing committee for *SM029. The low-energy/cold particle populations and the systems science of geospace* minisymposium. 
+**December 15-19, 2025** I am excited for [American Geophysical Union (AGU 2025)](https://www.agu.org/annual-meeting) annual meeting in New Orleans, Louisiana. I am on the organizing committee for *SM029: The low-energy/cold particle populations and the systems science of geospace* minisymposium. 
 
 Recent News
 ======
@@ -26,7 +26,7 @@ Recent News
 
 **June 22-27, 2025** It was great to attend the [GEM workshop](https://gemworkshop.org/) in Des Moines, Iowa. I presented a poster on secondary drift-driven instabilities caused by whistler waves using quasilinear theory. The electrostatic secondary-instabilities transfer energy from whistler waves to cold electrons. This mechanism potentially explains the discrepancy between simulated and observed parallel-propagating whistler wave amplitudes. 
 
-**June 1st, 2025** I was awarded the *2024-2025 Outstanding PhD Student of the Year Award* in the Department of Mechanical and Aerospace Engineering-- Many thanks to all my collaborators and mentors!
+**June 1st, 2025** I was awarded the *[2024-2025 Outstanding PhD Student of the Year Award](https://www.linkedin.com/feed/update/urn:li:activity:7345888932733009921/)* in the Department of Mechanical and Aerospace Engineering-- Many thanks to all my collaborators and mentors!
 
 **May 14, 2025** I passed my PhD candidacy exam! I am very grateful for my PhD committee members: Boris Kramer, Gian Luca Delzanno, Christopher Holland, Alexey Arefiev, and Matthias Morzfeld. Extra thanks to my mentor Gian Luca Delzanno for flying out from Los Alamos to attend the meeting and shaping my PhD research. It's been a fantastic ride so far.
 
