@@ -3,7 +3,10 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Code"
+  - title: "Codes"
+    url: /portfolio/
+
+  - title: "Presentations"
     url: /portfolio/
 
 
