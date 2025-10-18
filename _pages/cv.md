@@ -9,8 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-<!-- <embed src="https://github.com/opaliss/opalissan/blob/master/opal_issan_CV_2025.pdf" width="600px" height="500px" /> -->
-<iframe src="https://github.com/opaliss/opalissan/blob/master/opal_issan_CV_2025.pdf&embedded=true" style="width:100%;height:1100px;" frameborder="0"></iframe>
+<!-- <embed src="https://opaliss.github.io/opalissan//opal_issan_CV_2025.pdf" width="600px" height="500px" /> -->
+<iframe src="https://opaliss.github.io/opalissan//opal_issan_CV_2025.pdf&embedded=true" style="width:100%;height:1100px;" frameborder="0"></iframe>
 
-[PDF copy of my CV](https://github.com/opaliss/opalissan/blob/master/opal_issan_CV_2025.pdf)
+[PDF copy of my CV](https://opaliss.github.io/opalissan//opal_issan_CV_2025.pdf)
 
