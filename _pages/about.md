@@ -12,8 +12,7 @@ About Me
 ======
 I am a 5th year Ph.D. candidate in the Department of Mechanical and Aerospace Engineering at UC San Diego, advised by [Prof. Boris Kramer](https://kramer.ucsd.edu/). My current research is supervised by [Gian Luca Delzanno](https://scholar.google.com/citations?user=aJr9S0EAAAAJ&hl=en) at the Los Alamos National Laboratory T5 division and [Vadim Roytershteyn](https://scholar.google.com/citations?user=1Msby_cAAAAJ&hl=en) at the Space Science Institute, where we aim to understand how cold electrons (protons) effect whistler waves (electromagnetic ion cyclotron waves) generated in Earth's inner magnetosphere. Another aspect of my research involves developing spectral techniques for solving kinetic plasma equations.
 
-I am graduating in the Spring of 2026, and planning the next steps! Here is a link to my [CV.](./opal_issan_CV_2025.pdf)
-
+I am graduating in the Spring of 2026, and planning the next steps! 
 Upcoming Events
 ======
 **December 15-19, 2025** I am excited for [American Geophysical Union (AGU 2025)](https://www.agu.org/annual-meeting) annual meeting in New Orleans, Louisiana. I am on the organizing committee for *SM029: The low-energy/cold particle populations and the systems science of geospace* minisymposium. 
