@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-[Link to CV](../opal_issan_CV_2025.pdf)
+[Link to CV](./opal_issan_CV_2025.pdf)
