@@ -4,6 +4,10 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+## Preprints
+1. **Issan O**, Roytershteyn V, Delzanno GL, Janhunen S (2025). Understanding cold electron impact on parallel-propagating whistler chorus waves via moment-based quasilinear theory. 
+* [preprint]()
+
 ## Journal Publications 
 1. **Issan O**, Koshkarov O, Halpern F, Delzanno GL, Kramer B (2025). Conservative data-driven model order reduction of a fluid-kinetic spectral solver. Physics of Plasmas, 32:083907. doi: [10.1063/5.0275478](https://pubs.aip.org/aip/pop/article/32/8/083907/3361029/Conservative-projection-based-data-driven-model)
 * [poster](https://opaliss.github.io/opalissan//MORE24.pdf)
