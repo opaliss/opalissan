@@ -6,6 +6,7 @@ author_profile: true
 ---
 ## Preprints
 1. **Issan O**, Roytershteyn V, Delzanno GL, Janhunen S (2025). Understanding cold electron impact on parallel-propagating whistler chorus waves via moment-based quasilinear theory. (submitted)
+* [poster](https://opaliss.github.io/opalissan//AGU25_vertical_poster_cold_plasma.pdf)
 * [preprint](https://arxiv.org/abs/2512.03269)
 
 ## Journal Publications 
