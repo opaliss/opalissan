@@ -18,7 +18,7 @@ I am planning to graduate soon-*ish* and am excited for the next steps!
 
 Recent News
 ======
-**May 5, 2026** Started a 7-month internship at Google DeepMind (London, UK) working in the intersection of machine learning and fusion modeling
+**May 5, 2026** I am very excited to start a 7-month internship at Google DeepMind (London, UK) working in the intersection of machine learning and fusion modeling.
 
 **December 15-19, 2025** I attended my first [American Geophysical Union (AGU 2025)](https://www.agu.org/annual-meeting) annual meeting in New Orleans, Louisiana. I am on the organizing committee for *SM029: The low-energy/cold particle populations and the systems science of geospace* minisymposium. 
 
