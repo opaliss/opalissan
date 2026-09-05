@@ -12,16 +12,14 @@ About Me
 ======
 I am a 5th year Ph.D. candidate in the Department of Mechanical and Aerospace Engineering at UC San Diego, advised by [Prof. Boris Kramer](https://kramer.ucsd.edu/). My current research is supervised by [Gian Luca Delzanno](https://scholar.google.com/citations?user=aJr9S0EAAAAJ&hl=en) and [Vadim Roytershteyn](https://scholar.google.com/citations?user=1Msby_cAAAAJ&hl=en) at the Los Alamos National Laboratory T5 division, where we aim to understand how cold electrons (protons) effect whistler waves (electromagnetic ion cyclotron waves) generated in Earth's inner magnetosphere. Another aspect of my research involves developing spectral techniques for solving kinetic plasma equations.
 
+I am currently a student researcher at [Google DeepMind (London) fusion team](https://deepmind.google/blog/bringing-ai-to-the-next-generation-of-fusion-energy/) working on Bayesian inference and generative approaches for tokamak modeling.
+
 I am planning to graduate soon-*ish* and am excited for the next steps! 
-
-[comment]: <> (Upcoming Events)
-
-[comment]: <> (======)
-
-[comment]: <> (**May 1, 2026** I am **VERY** excited to join [Google DeepMind]&#40;https://deepmind.google/blog/bringing-ai-to-the-next-generation-of-fusion-energy/&#41; in London, where I will be working as a student researcher in the fusion energy team!)
 
 Recent News
 ======
+**May 5, 2026** Started a 7-month internship at Google DeepMind (London, UK) working in the intersection of machine learning and fusion modeling
+
 **December 15-19, 2025** I attended my first [American Geophysical Union (AGU 2025)](https://www.agu.org/annual-meeting) annual meeting in New Orleans, Louisiana. I am on the organizing committee for *SM029: The low-energy/cold particle populations and the systems science of geospace* minisymposium. 
 
 **Sept 22-26, 2025** It was an honor to be an invited speaker at the [Machine Learning in Heliophysics workshop](https://ml-helio.github.io/) in Madrid, Spain. I presented on Bayesian inference and sensitivity analysis for operational solar wind forecasting ([link to paper](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023SW003555)). 
